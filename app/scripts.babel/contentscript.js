@@ -10,4 +10,11 @@ $(function () {
   $('.it-Actions_item-stock button').css({'background-color':'#ff0000','border':'1px solid #ff0000'});
   $('svg.social-icon--twitter circle, svg.social-icon--facebook circle').css('fill', '#ff0000');
   $('.userActivityChart_stat.active, .userActivityChart_stat:hover').css('border-top', '3px solid #ff0000');
+  $('.st-Header_notifications').css('background-color', '#ff0000');
+  $('.it-ActionsMobile_like').css({'color':'#ff0000', 'border': '2px solid #ff0000'});
+  $('.it-Footer_editRequest').css('background-color', '#ff0000');
+  $('.btn-primary').css({'background-color':'#ff0000','border-color':'#ff0000'});
+
+
+
 });
