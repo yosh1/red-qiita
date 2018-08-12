@@ -1,7 +1,7 @@
 {
   "name": "Red-Qiita",
   "version": "0.0.2",
-  "manifest_version": 3,
+  "manifest_version": 2,
   "description": "Qiitaの黄緑の部分を全て赤色に変更するChrome Extentionです。",
   "icons": {
     "16": "images/icon-16.png",
